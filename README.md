@@ -27,7 +27,7 @@ GitHub Pages – quick setup for static sites
 Netlify – automatic deployment from GitHub with custom domains
 Vercel – fast global deployment with CI/CD support
 
-Live Demo: file:///C:/Users/rentt/OneDrive/Documents/kendis-portfolio/index.html
+Live Demo: file:///C:/Users/rentt/OneDrive/Documents/kendis-portfolio/contact.html
 
 Technologies Used
 HTML5 → Semantic structure
@@ -36,7 +36,7 @@ JavaScript (ES6) → Interactivity (fade-in, navbar active states)
 Font Awesome → Social & UI icons
 
 📧 Contact
-Portfolio: file:///C:/Users/rentt/OneDrive/Documents/kendis-portfolio/index.html
+Portfolio: file:///C:/Users/rentt/OneDrive/Documents/kendis-portfolio/contact.html
 Email: kendi@gmail.com
 LinkedIn: [Your LinkedIn]
 GitHub: [Your GitHub]
